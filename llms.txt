@@ -1,0 +1,32 @@
+# Manuel Jimenez
+
+> AI Engineer • Senior Backend Developer
+
+I build LLM systems that run in production, and the backends around them. At SellEasy I design multi-agent sales and support workflows with LangGraph, CrewAI and RAG that cut response latency by 32%, plus ad-ops agents across Meta, TikTok and Google Ads that cut marketing management time by 23%.
+
+I started as a backend developer, so I care about what happens after the demo: async workers with Redis and Celery, high-concurrency REST and WebSocket APIs, WhatsApp and CRM integrations, and token cost per inference. At Netcare IT, the WhatsApp Cloud API integration I built into EspoCRM cut administrative workload by 21%.
+
+## Experience
+
+- AI Engineer • LLM Systems & Multi-Agent Specialist, SellEasy (Jan 2026 - Present)
+- Senior Backend Engineer • AI Integrations & API Specialist, Netcare IT (Jun 2024 - Sep 2026)
+- Backend Developer, Seagloo (Jul 2022 - Aug 2024)
+
+## Projects
+
+- [Cobrix](https://github.com/Manuel-jimenez10/cobrix-frontend): A WhatsApp-based collections app for Mexican SMBs that decides who to contact first and what to say, while a human sends every message. A rule-based 0-100 debtor priority score ranks the queue, and a Gemini assistant drafts reminders, suggests replies and detects payment promises, with Zod-validated outputs and rule-based fallbacks when the model or quota fails.
+- Evento Maiawa: Software built at SellEasy for an in-person event that combines NFC passports, WhatsApp missions and voice clues. I designed the device API that NFC readers call on every tap (card UID in, action code and MP3 audio out), with heartbeats for a reader-health dashboard and fail-safe deny responses so a reader never hangs. ElevenLabs voice clues are pre-generated and tuned to shrink a 10-second clip from ~213 KB to ~54 KB of base64.
+- Hivara: Collaboration on Hivara, a WhatsApp conversational platform with a Python engine (FastAPI, Celery, Redis, RabbitMQ), LLMs and vector RAG. I built a local execution harness that ran the real engine and LLM against mocked external systems, and redesigned a 100-node dealership flow: false terminations went from 14/18 to 0/18, with 100% clean data capture.
+
+## Stack
+
+Python, FastAPI, LangGraph, TypeScript, Node.js, NestJS, PostgreSQL, Redis, Docker, Supabase, Anthropic, ElevenLabs
+
+## Links
+
+- English: https://manueljimenez.vercel.app/
+- Español: https://manueljimenez.vercel.app/es/
+- Email: manuel28042005@gmail.com
+- LinkedIn: https://linkedin.com/in/manueljimenezlopez
+- GitHub: https://github.com/manuel-jimenez10
+- Download CV (en): https://manueljimenez.vercel.app/cv-manuel-jimenez-en.pdf
