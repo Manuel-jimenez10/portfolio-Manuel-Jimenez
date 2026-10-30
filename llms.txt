@@ -8,7 +8,7 @@ I started as a backend developer, so I care about what happens after the demo: a
 
 ## Experience
 
-- AI Engineer • LLM Systems & Multi-Agent Specialist, SellEasy (Jan 2026 - Present)
+- AI Engineer • LLM Systems & Multi-Agent Specialist, SellEasy (Dec 2025 - Present)
 - Senior Backend Engineer • AI Integrations & API Specialist, Netcare IT (Jun 2024 - Sep 2026)
 - Backend Developer, Seagloo (Jul 2022 - Aug 2024)
 
